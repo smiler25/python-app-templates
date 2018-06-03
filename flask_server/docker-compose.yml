@@ -1,0 +1,6 @@
+my_flask_server:
+  build: .
+  container_name: my_flask_server
+  ports:
+    - 172.17.0.1:8080:8080
+  restart: unless-stopped
