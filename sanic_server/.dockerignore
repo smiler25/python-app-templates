@@ -1,0 +1,14 @@
+*.iml
+*.idea
+.env
+*.pid
+.gitignore
+.dockerignore
+.git
+**Dockerfile*
+**docker-compose.yml
+dev
+.coverage
+coverage
+coverage_report_html
+coverage_report.json
