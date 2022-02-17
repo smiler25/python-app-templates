@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-sanic = "==20.9.1"
+sanic = "==20.12.6"
 secure = "==0.2.1"
 environs = "==9.3.0"
 sanic-envconfig = "==1.3.4"
